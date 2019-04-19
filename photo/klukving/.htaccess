@@ -1,0 +1,4 @@
+AuthName "Ale jopa"
+AuthType Basic
+AuthUserFile /home/a/alazankcom/klukvography/public_html/.jopa
+require valid-user
